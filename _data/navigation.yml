@@ -28,5 +28,5 @@ main:
   - title: "About"
     url: /about/
     
-   - title: "Projects"
+  - title: "Projects"
     url: /projects/
