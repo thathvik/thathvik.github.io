@@ -21,12 +21,12 @@
   # - title: "Guide"
     # url: /markdown/
 
-main:    
-  - title: "Home"
-    url: /
-    
+main:      
   - title: "About"
     url: /about/
     
   - title: "Projects"
     url: /projects/
+
+  - title: "Curriculum Vitae"
+    url: /cv/
