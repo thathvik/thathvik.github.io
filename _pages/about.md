@@ -13,6 +13,8 @@ I recently finished my Master's in Mechatronics and Robotics from New York Unive
 <iframe width="1000" height="900" src="https://www.youtube-nocookie.com/embed/J35q5poN_jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[Github page to the project](https://github.com/thathvik/Push_Reovery_LIPM_biped)
+
 
 For more info
 ------
