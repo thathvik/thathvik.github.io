@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Tarun Thathvik"
-excerpt: "About me"
+title: "About me"
+excerpt: "Tarun Thathvik"
 author_profile: true
 redirect_from: 
   - /about/
