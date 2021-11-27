@@ -1,0 +1,25 @@
+---
+permalink: /
+title: "Projects"
+excerpt: "Tarun Thathvik"
+author_profile: true
+redirect_from: 
+  - /projects/
+  - /projects.html
+---
+
+# My Projects
+
+Below is a brief about my recent projects.
+
+## Pose Estimation, Categorization and Segregation using Robot Manipulator (POSCAR) \[ [GitHub](https://github.com/thathvik/POSCAR) \]
+
+* Used NVIDIA DOPE to identify the object and estimate its 6D Pose with the image input from a 2D RGB camera.
+* Simulated a Robotic arm with a camera near the end-effector to identify the pose of the objects and then move the robotic arm to the pose estimated by DOPE to then manipulate the said objects in the scene.
+
+
+For more info
+------
+* This is a new website, still under development, please find my resume [here](/files/Tarun_Thathvik_Paladugu_resume.pdf).
+
+* Please check out [my GitHub](https://github.com/thathvik) page to see more of my work and uploaded projects.
