@@ -1,7 +1,6 @@
 ---
-permalink: /
+permalink: /projects/
 title: "Projects"
-excerpt: "Tarun Thathvik"
 author_profile: true
 redirect_from: 
   - /projects/
