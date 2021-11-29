@@ -3,6 +3,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 redirect_from: 
+  - /project
   - /projects/
   - /projects.html
 ---
@@ -86,7 +87,7 @@ Nov 2018 - Nov 2018
 
 
 
-For more info
+More about me:
 ------
 * This is a new website, still under development, please find my resume [here](/files/Tarun_Thathvik_Paladugu_resume.pdf).
 
