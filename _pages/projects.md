@@ -1,10 +1,13 @@
 ---
+layout: archive
 permalink: /projects/
 title: "Projects"
 author_profile: true
 redirect_from: 
 - 
 ---
+
+{% include base_path %}
 
 # My Projects
 
