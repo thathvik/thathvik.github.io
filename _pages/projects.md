@@ -4,7 +4,6 @@ title: "Projects"
 author_profile: true
 redirect_from: 
   - /project/
-  - /projects/
   - /projects.html
 ---
 
