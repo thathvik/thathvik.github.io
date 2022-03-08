@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Projects"
+title: "My Projects"
 author_profile: true
 redirect_from: 
 - 
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# My Projects
 
 Below is a brief about my recent projects.
 
